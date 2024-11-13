@@ -1,0 +1,23 @@
+bruh score;
+bruh playerHealth;
+
+score = 100;
+playerHealth = 50;
+
+lemmeCheck score > 10 
+hmm
+    bruhSays "Score is high!";
+nah
+    bruhSays "Score is low!";
+
+insanity 10 hmm
+    playerHealth = playerHealth - 10;
+    lemmeCheck playerHealth < 0
+    hmm
+        ragequit;
+gameover;
+
+duty heal bruh amount;
+bounceBack score;
+
+

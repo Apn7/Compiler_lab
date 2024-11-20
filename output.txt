@@ -1,4 +1,4 @@
-Keywords: 16
-Identifiers: 11
+Keywords: 17
+Identifiers: 12
 Numbers: 6
 Operators: 6

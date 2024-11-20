@@ -17,6 +17,7 @@ insanity 10 hmm
         ragequit;
 gameover;
 
+grab amount;
 duty heal bruh amount;
 bounceBack score;
 

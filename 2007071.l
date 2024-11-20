@@ -17,6 +17,7 @@ IF lemmeCheck
 THEN hmm
 ELSE nah
 PRINT bruhSays
+READ grab
 VARIABLE bruh
 RETURN bounceBack
 FUNCTION duty
@@ -39,6 +40,7 @@ bruhSays       { keyword++; }
 bruh           { keyword++; }
 bounceBack     { keyword++; }
 duty           { keyword++; }
+grab           { keyword++; }
 
 {IDENTIFIER}   { identifier++; }
 {NUMBER}       { number++; }
